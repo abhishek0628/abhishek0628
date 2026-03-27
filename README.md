@@ -6,7 +6,7 @@ Beyond coding, I like working on projects that help me explore real-world applic
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-176467257) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-176467257) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijnv124@gmail.com)
 
 ---
@@ -25,23 +25,14 @@ Beyond coding, I like working on projects that help me explore real-world applic
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishek0628&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
----
+![](https://github-readme-stats.vercel.app/api?username=abhishek0628&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🔥 GitHub Streak:
-![](https://streak-stats.demolab.com?user=abhishek0628&theme=radical&hide_border=false&cache_seconds=1)
-
-<!-- Alternative (if above fails again because internet likes chaos)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek0628&theme=radical&hide_border=false)
--->
-
----
+![](https://streak-stats.demolab.com?user=abhishek0628&theme=radical&hide_border=false)<br/>
 
 ## 🧠 Top Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek0628&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 👀 Profile Views:
-![](https://visitcount.itsvg.in/api?id=abhishek0628&icon=0&color=0)
+[![](https://visitcount.itsvg.in/api?id=abhishek0628&icon=0&color=0)](https://visitcount.itsvg.in)  streak is not updated
